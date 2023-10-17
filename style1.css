@@ -1,0 +1,82 @@
+/* geral */
+body{
+    background: #2193b0;
+    background: -webkit-linear-gradient(to right, #2193b0, #6dd5ed);
+    background: linear-gradient(to right, #2193b0, #6dd5ed);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+
+h2{
+    font-size: 35px;
+    text-align: center;
+}
+/* o cabeçalho*/
+#aluno{
+    font-size: 24px;
+    margin-bottom: -1%;
+    margin-top: -3%;
+    text-align: center;
+}
+
+#curso{
+    font-size: 24px;
+    text-align: center;
+}
+/* os hr */
+.primeiraquebralinha{
+    background-color: black;
+    height: 1px;
+    border: none;
+}
+
+.segundaquebralinha{
+    background-color: black;
+    height: 1px;
+    border: none;
+}
+
+.terceiraquebralinha{
+    background-color: black;
+    height: 1px;
+    border: none;
+}
+/* corpo */
+.dados{
+    font-size: 24px;
+}
+
+.disciplinas{
+    font-size: 24px;
+}
+
+#pri{
+    margin-bottom: 1%;
+    margin-top: -1%;
+    margin-right: 2%;
+}
+
+#seg{
+    margin-right: 2%;
+}
+
+#dados{
+    margin-right: 2%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+
